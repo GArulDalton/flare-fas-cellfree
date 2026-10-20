@@ -45,7 +45,7 @@ flare-fas-cellfree/
 Python 3.9 or newer. No GPU is needed.
 
 ```bash
-git clone https://github.com/iitrky/flare-fas-cellfree.git
+git clone https://github.com/GArulDalton/flare-fas-cellfree.git
 cd flare-fas-cellfree
 python -m venv .venv && source .venv/bin/activate   # Windows: .venv\Scripts\activate
 pip install -r requirements.txt
