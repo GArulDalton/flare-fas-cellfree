@@ -2,7 +2,7 @@
 
 Official code for the paper
 
-> A. Bamila Virgin Louis, G. Arul Dalton and P. Sankar, "Scalable Graph Neural Network Port Selection and Beamforming for Fluid Antenna Enabled Cell Free Massive MIMO Under Imperfect Channel State Information," submitted to *Telecommunication Systems* (Springer).
+>A. Bamila Virgin Louis, G. Arul Dalton and P. Sankar, "Graph Neural Network Port Selection for Fluid Antenna Enabled Cell Free Massive MIMO," submitted to *Telecommunication Systems* (Springer).
 
 FLARE (Fluid antenna Learning Aided Resource Engine) selects the active port of a single-RF-chain fluid antenna at every access point (AP) of a cell-free massive MIMO network, using only LMMSE channel estimates. It is a bipartite AP–user graph neural network that is equivariant to permutations of **APs, users and ports**, so one 15,777-parameter model runs on any network size. FLARE-LS adds a candidate-restricted local search. The repository also contains the overhead-aware, port-subsampled sounding scheme of Section 4.6.
 
