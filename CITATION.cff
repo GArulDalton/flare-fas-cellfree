@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper below."
+title: "FLARE: GNN port selection for fluid antenna enabled cell free massive MIMO"
+version: 1.0.0
+license: MIT
+repository-code: "https://github.com/iitrky/flare-fas-cellfree"
+authors:
+  - family-names: "Louis"
+    given-names: "A. Bamila Virgin"
+    orcid: "https://orcid.org/0000-0003-0297-4004"
+    affiliation: "St. Xavier's Catholic College of Engineering, Nagercoil, India"
+  - family-names: "Arul Dalton"
+    given-names: "G."
+    orcid: "https://orcid.org/0000-0002-5981-7176"
+    affiliation: "Saveetha Engineering College, Chennai, India"
+  - family-names: "Sankar"
+    given-names: "P."
+    orcid: "https://orcid.org/0009-0008-0986-4493"
+    affiliation: "Saveetha Engineering College, Chennai, India"
+preferred-citation:
+  type: article
+  title: "Scalable Graph Neural Network Port Selection and Beamforming for Fluid Antenna Enabled Cell Free Massive MIMO Under Imperfect Channel State Information"
+  journal: "Telecommunication Systems"
+  status: submitted
+  authors:
+    - family-names: "Louis"
+      given-names: "A. Bamila Virgin"
+    - family-names: "Arul Dalton"
+      given-names: "G."
+    - family-names: "Sankar"
+      given-names: "P."
