@@ -3,7 +3,7 @@ message: "If you use this code, please cite the paper below."
 title: "FLARE: GNN port selection for fluid antenna enabled cell free massive MIMO"
 version: 1.0.0
 license: MIT
-repository-code: "https://github.com/iitrky/flare-fas-cellfree"
+repository-code: "https://github.com/GArulDalton/flare-fas-cellfree"
 authors:
   - family-names: "Louis"
     given-names: "A. Bamila Virgin"
