@@ -19,7 +19,7 @@ authors:
     affiliation: "Saveetha Engineering College, Chennai, India"
 preferred-citation:
   type: article
-  title: "Scalable Graph Neural Network Port Selection and Beamforming for Fluid Antenna Enabled Cell Free Massive MIMO Under Imperfect Channel State Information"
+  title: "Graph Neural Network Port Selection for Fluid Antenna Enabled Cell Free Massive MIMO"
   journal: "Telecommunication Systems"
   status: submitted
   authors:
