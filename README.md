@@ -118,7 +118,7 @@ If you use this code, please cite the paper (see `CITATION.cff`). BibTeX will be
 ```bibtex
 @article{louis2026flare,
   author  = {Louis, A. Bamila Virgin and Arul Dalton, G. and Sankar, P.},
-  title   = {Scalable Graph Neural Network Port Selection and Beamforming for Fluid Antenna Enabled Cell Free Massive {MIMO} Under Imperfect Channel State Information},
+  title   = {Graph Neural Network Port Selection for Fluid Antenna Enabled Cell Free Massive MIMO},
   journal = {Telecommunication Systems},
   note    = {Submitted},
   year    = {2026}
